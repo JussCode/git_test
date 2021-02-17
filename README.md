@@ -1,0 +1,1 @@
+This is Jamal's (@JussCode) first git project!
